@@ -1,3 +1,8 @@
+#사전 작업
+우분투 설치 [https://github.com/varteam/Install-Ubuntu14.04]
+
+도커 설치 [https://github.com/varteam/Install-Docker-On-Ubuntu]
+
 # Install-Dokku-on-ubuntu
 도쿠 설치 방법
 
